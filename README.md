@@ -1,4 +1,4 @@
 # Steamdeck running P5
 
 
-[testcode](pcomptest)
+[test1](test1)
