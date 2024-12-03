@@ -1,4 +1,4 @@
-# finalpcomp
+# Steamdeck running P5
 
 
-[Finaltest](Finaltest)
+[testcode](pcomptest)
